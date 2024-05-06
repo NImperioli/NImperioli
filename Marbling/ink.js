@@ -28,7 +28,23 @@ class Drop {
       v.add(m.copy().mult(mag));
     }
   }
-  
+
+  /* tineX(v, x, y, z, c) {
+    let u = 1 / pow(2, 1 / c);
+    for (let v of this.vertices) {
+      v.x = v.x;
+      v.y = v.y + z * pow(u, abs(v.x - x));
+    }
+  }
+
+  tineY(v, x, y, z, c) {
+    let u = 1 / pow(2, 1 / c);
+    for (let v of this.vertices) {
+      v.x = v.x + z * pow(u, abs(v.y - y));
+      v.y = v.y;
+    }
+  } */
+
   marble(other) {
     for (let v of this.vertices) {
       let c = other.center;
