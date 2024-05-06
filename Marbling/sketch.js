@@ -22,7 +22,6 @@ function MoonWave() {
     color(76, 0, 153),
   ];
   MoonPalette = [
-    //color(255,255,0),
     color(240, 230, 140),
     color(250, 235, 215),
     color(245, 245, 220),
@@ -30,7 +29,6 @@ function MoonWave() {
     color(255, 250, 205),
     color(255, 228, 181),
     color(253, 245, 230),
-    //color(245,255,250),
     color(255, 255, 240),
     color(250, 240, 230),
     color(255, 250, 250),
@@ -53,7 +51,7 @@ function MoonWave() {
 }
 function mousePressed() {
   start = createVector(mouseX, mouseY);
-
+  //Optional on Click create a new drop of ink.
   /* addInk(
     mouseX ,
     mouseY ,
@@ -63,6 +61,7 @@ function mousePressed() {
 }
 
 function mouseDragged() {
+  //On click and drag create a tineor line dragged through the ink modifying it's shape.
   let end = createVector(mouseX, mouseY);
   end.sub(start);
   end.normalize();
@@ -85,6 +84,7 @@ function addInk(x, y, r, col) {
 }
 
 function draw() {
+  //Combing effect of tines based on the arror key pressed. Not fully functional.
   if (keyIsDown(RIGHT_ARROW)) {
     let step = 10;
     for (let j = 0; j < height; j += step) {
