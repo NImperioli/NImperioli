@@ -59,7 +59,7 @@ hobbies: ["Gaming", "Cooking", "Reading", "40k"]
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NImperioli&show_icons=true&theme=panda&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NImperioli&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NImperioli&layout=compact&theme=panda&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NImperioli&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
