@@ -2,6 +2,33 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&fontSize=90" />
 </p>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+```yaml
+name: Nicholas Imperioli
+located_in: Montreal, Quebec
+education:
+  [
+    "Self-Taught Developer and Designer",
+    "Bachelor's in Computer Science and Economics",
+  ]
+
+fields_of_interests:
+  [
+    "Databases",
+    "Data Science",
+    "UI/UX",
+    "System Design",
+    "Backend Dev",
+    "Game Development",
+  ]
+technical_background:
+  [
+    "Full Stack Developer"
+    "DevOps Solutions Architect - Relational & NoSQL Systems, SQL, MongoDB",
+    "Database Developer",
+    "Data Analysis in Python",
+    "Java Developer",
+  ]
+  
+currently_learning: ["Advanced System Design", "Database Optimization", "Game Development", "Go"]
+hobbies: ["Gaming", "Cooking", "Reading", "40k"]
+```
