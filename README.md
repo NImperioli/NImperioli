@@ -1,3 +1,4 @@
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90&fontColor=ffffff" />
@@ -5,6 +6,7 @@
     srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90&fontColor=000000" />
   <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90" />
 </picture>
+</p>
 
 ```yaml
 name: Nicholas Imperioli
