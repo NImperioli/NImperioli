@@ -1,6 +1,5 @@
 <p align="center">
 <picture>
-    srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90&fontColor=ffffff" />
   <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90" />
 </picture>
 </p>
