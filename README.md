@@ -59,6 +59,6 @@ hobbies: ["Gaming", "Cooking", "Reading", "40k"]
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=NImperioli&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="200" src=[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=NImperioli&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400" />
 </p>
