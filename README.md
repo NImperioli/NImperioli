@@ -26,6 +26,7 @@ fields_of_interests:
     "Backend Dev",
     "Game Development",
   ]
+
 technical_background:
   [
     "Full Stack Developer"
