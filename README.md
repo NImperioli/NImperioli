@@ -58,4 +58,4 @@ hobbies: ["Gaming", "Cooking", "Reading", "40k"]
 </div>
 <h2 align="center">GitHub Stats</h2>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NImperioli)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NImperioli&show_icons=true&bg_color=00000000)
