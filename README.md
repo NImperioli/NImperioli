@@ -59,6 +59,6 @@ hobbies: ["Gaming", "Cooking", "Reading", "40k"]
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NImperioli&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NImperioli&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NImperioli&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NImperioli&layout=compact&theme=tokyonight" />
 </p>
