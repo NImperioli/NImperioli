@@ -34,7 +34,7 @@ hobbies: ["Gaming", "Cooking", "Reading", "40k"]
 ```
 <h2>Some Tools & Technologies I Have Used</h2>
 
-<div align="left" style="max-width: 600px;">
+<div align="center" style="max-width: 600px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" style="display:inline-block; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" style="display:inline-block; margin:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" style="display:inline-block; margin:6px;"/>
