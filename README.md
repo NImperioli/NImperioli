@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=purple&height=300&section=header&text=Welcome&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90" />
 </p>
