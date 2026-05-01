@@ -1,6 +1,10 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90&fontColor=ffffff" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90&fontColor=000000" />
+  <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome&fontSize=90" />
+</picture>
 
 ```yaml
 name: Nicholas Imperioli
@@ -57,18 +61,31 @@ hobbies: ["Gaming", "Cooking", "Reading", "40k"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas" style="display:inline-block; margin:6px;"/>
 </div>
 <h2 align="center">GitHub Stats</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=NImperioli&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=NImperioli&show_icons=true&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=NImperioli&show_icons=true&theme=default&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NImperioli&show_icons=true&theme=tokyonight&hide_border=true" />
+  </picture>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NImperioli&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NImperioli&layout=compact&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NImperioli&layout=compact&theme=default&hide_border=true" />
+    <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=NImperioli&layout=compact&theme=tokyonight&hide_border=true" />
+  </picture>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/NImperioli/NImperioli/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/NImperioli/NImperioli/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake"
-    src="https://raw.githubusercontent.com/NImperioli/NImperioli/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/NImperioli/NImperioli/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/NImperioli/NImperioli/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake"
+      src="https://raw.githubusercontent.com/NImperioli/NImperioli/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
