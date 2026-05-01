@@ -56,6 +56,10 @@ hobbies: ["Gaming", "Cooking", "Reading", "40k"]
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas" style="display:inline-block; margin:6px;"/>
 </div>
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=NImperioli&show_icons=true&theme=tokyonight&cache_seconds=86400" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=NImperioli&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400" />
+</p>
 
 <a href="https://github.com/NImperioli">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NImperioli" />
